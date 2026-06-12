@@ -1,0 +1,5 @@
+a=1234;
+k=0;
+for i in str(a):
+   k=k+int(i);
+print(k);
