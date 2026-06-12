@@ -1,0 +1,3 @@
+a=float(input("enter a"));
+a=int(a);
+print(a);
