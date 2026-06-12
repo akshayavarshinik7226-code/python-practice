@@ -1,0 +1,6 @@
+numbers = [10, 3, 25, 7, 1];
+smallest = numbers[0]
+for i in numbers:
+    if i<smallest:
+        smallest = i
+print(smallest)    
