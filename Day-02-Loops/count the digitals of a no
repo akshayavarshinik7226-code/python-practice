@@ -4,3 +4,9 @@ count=0;
 for i in str(i):
     count=count+1;
 print(count);
+2nd method
+a=str(input("enter a n0"))
+sum=0;
+for digit in a:
+    sum=sum+1;
+print(sum);
