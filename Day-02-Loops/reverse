@@ -1,0 +1,7 @@
+a=5678;
+sum=0;
+for i in range(len(str(a))):
+    rem=a%10;
+    sum=sum*10+rem;
+    a=a//10;
+print(sum);
