@@ -1,0 +1,11 @@
+a=121;
+sum=0;
+temp=a;
+for i in range(len(str(a))):
+    rem=a%10;
+    sum=sum*10+rem;
+    a=a//10;
+if temp==sum:
+   print("palindrome");
+else:
+   print("not");
