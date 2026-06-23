@@ -1,8 +1,0 @@
-a=[12,23,34,44,-98];
-b=23;
-for i in a:
-    if i==b:
-       print("Found");
-       break
-else:
-     print("Not Found");
