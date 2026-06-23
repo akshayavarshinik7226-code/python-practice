@@ -1,0 +1,2 @@
+a="akshaya";
+print(a[::-1]);
