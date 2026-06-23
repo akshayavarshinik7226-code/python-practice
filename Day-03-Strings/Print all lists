@@ -1,3 +1,0 @@
-#no words or char only numbers
-a=[23.4,45.6,567];
-print(a);
